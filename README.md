@@ -164,6 +164,10 @@ Wisdom-Primary-Repo
 │   ├── MongoDB/  
 │   ├── RedisDB/  
 │   └── Neo4JDB/
+│
+├── Certificates/                     # Certifications in Various Formats
+│   ├── Images/  
+│   └── PDFs/
 |
 ├── SECURITY.md                       # Security policy
 ├── Demo Imgs                         # Demonstrative Images
