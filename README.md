@@ -97,7 +97,7 @@ Whether you’re a student, job-seeker or self-learner, dive in for daily practi
 
 ```text
 Wisdom-Primary-Repo
-├── .github/                          # CI workflows, issue/pr templates
+|
 ├── Python Works/                     # Python practice materials 
 │   ├── Pandas-Matplotlib-Seaborn/  
 │   ├── Practice File/  
@@ -169,6 +169,7 @@ Wisdom-Primary-Repo
 │   ├── Images/  
 │   └── PDFs/
 |
+├── .github/                          # CI workflows, issue/pr templates
 ├── SECURITY.md                       # Security policy
 ├── Demo Imgs                         # Demonstrative Images
 └── README.md                         # This File
